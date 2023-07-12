@@ -35,6 +35,7 @@ HMTL5
 
 ### Acesse o diretorio🤓
 #### certifique-se se as portas 7000 e 80 estão disponíveis
+Para saber mais sobre a estrutura do docker, suas dependências e instalação windows acessar: https://github.com/silveirajedi/docker-apache-php-mariadb
 ```
 cd <pasta que clonou> && sh linux-mac-server.sh start 
 ```
