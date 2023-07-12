@@ -67,7 +67,7 @@ nano <pasta que clonou>\crud-turim\source\Boot\Config.php
 nano <pasta que clonou>\crud-turim\source\Boot\Config.php
 ```
 
-### Acesse a url http://www.localhost/:
+### Acesse a url http://localhost/:
 
 
 ## Imagens do projeto 💻

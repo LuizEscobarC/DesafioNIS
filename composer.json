@@ -1,0 +1,32 @@
+{
+  "name": "luizpaulo/luiz",
+  "description": "Site teste",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Luiz Paulo",
+      "email": "luiz_escobar11@hotmail.com",
+      "homepage": "hhtps://ihsistema.com",
+      "role": "Developer"
+    }
+  ],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Boot/Config.php",
+      "source/Boot/Helpers.php"
+    ]
+  },
+  "require": {
+    "php": ">=7.2",
+    "ext-pdo": ">=7.1",
+    "league/plates": "3.*",
+    "coffeecode/router": "^1.0",
+    "ext-json": "*"
+  }
+}
