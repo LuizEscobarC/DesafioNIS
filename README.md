@@ -44,7 +44,7 @@ Para saber mais sobre a estrutura do docker, suas dependências e instalação w
 cd <pasta que clonou>/DesafioNIS && sh linux-mac-server.sh start 
 ```
 
-### As dependências composer já serão instaladas automaticamente via sh�
+### As dependências composer já serão instaladas automaticamente via ShellScript�
 
 
 ### A aplicação, por padrão, fica na porta:🤗
