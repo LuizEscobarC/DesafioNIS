@@ -93,7 +93,7 @@ RewriteRule ^(.*)$ index.php?route=/$1 [L,QSA]
  </li>
  
 ```json
-   {"charSet": "latin1", "Collation": latin1_swedish_ci}
+   {"charSet": "latin1", "Collation": "latin1_swedish_ci"}
   ```
  
  <li>
