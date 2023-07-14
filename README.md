@@ -148,6 +148,9 @@ nano <pasta que clonou>/DesafioNIS/source/Boot/Config.php
 ```
 ### Acesse a url http://localhost/:
 
+## REFINAMENTO DA TASK
+https://www.notion.so/NIS-04b6d97cfe8c4ce08f9405d25ef510c0?pvs=4
+
 ## Imagens do projeto 💻
 ![image](https://github.com/LuizEscobarC/DesafioNIS/assets/54407649/9e73b134-9955-4069-800e-8d3f1823203a)
 
